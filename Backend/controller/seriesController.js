@@ -1,3 +1,3 @@
-exports.getSeries = async () => {
+exports.getSeries = () => {
   console.log("Funca o no Funca rey?");
 };
